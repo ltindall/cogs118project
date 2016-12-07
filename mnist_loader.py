@@ -1,5 +1,5 @@
 """
-mnist_loader
+mnist_loader from https://github.com/mnielsen/neural-networks-and-deep-learning
 ~~~~~~~~~~~~
 
 A library to load the MNIST image data.  For details of the data
